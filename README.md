@@ -1,6 +1,6 @@
 # 🚀 Habit Tracker API (Трекер полезных привычек)
 
-[![Habit Tracker CI/CD](https://shields.io)](https://github.com)
+[![Habit Tracker CI/CD](https://github.com/workflows/ci.yml/badge.svg?branch=develop)](https://github.com/habit-tracker/actions)
 
 
 Бэкенд-сервис для создания и отслеживания полезных привычек, помогающий пользователям формировать здоровый образ жизни.
