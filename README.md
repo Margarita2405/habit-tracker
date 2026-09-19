@@ -1,6 +1,6 @@
 # 🚀 Habit Tracker API (Трекер полезных привычек)
 
-[![Habit Tracker CI/CD](https://github.com/Margarita2405/habit-tracker/workflows/ci.yml/badge.svg?branch=develop)](https://github.com/Margarita2405/habit-tracker/actions)
+[![Habit Tracker CI/CD](https://github.com/Margarita2405/habit-tracker/workflows/ci.yml/badge.svg?branch=develop)](https://github.com/Margarita2405/habit-tracker/develop/actions)
 
 Бэкенд-сервис для создания и отслеживания полезных привычек, помогающий пользователям формировать здоровый образ жизни.
 Проект реализует REST API со строгой бизнес-валидацией привычек, JWT-авторизацией, асинхронными очередями Celery и 
