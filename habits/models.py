@@ -44,6 +44,9 @@ class Habit(models.Model):
                     "У полезной привычки должно быть вознаграждение или связанная приятная привычка."
                 )
 
+    def __str__(self):
+        return f"{self.action} ({self.place})"
+
 
 class HabitLog(models.Model):
     """Модель для фиксации факта выполнения привычки."""
