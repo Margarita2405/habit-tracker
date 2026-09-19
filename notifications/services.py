@@ -25,4 +25,3 @@ def send_telegram_message(telegram_id: str, text: str) -> bool:
     except requests.exceptions.RequestException as e:
         print(f"Исключение при отправке в Telegram: {e}")
         return False
-
